@@ -194,6 +194,7 @@ ul.themability_megamenu li .product .price {
 
 .themability_megamenu .menu-product-thumb .rating {
     margin-bottom: 5px;
+    display: none;
 }
 
 .themability_megamenu .menu-product-thumb .price-tax {

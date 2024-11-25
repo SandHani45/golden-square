@@ -989,6 +989,7 @@ a#list-profile-list {
 }
 
 .single-column .button-group {
+    display: none;
     position: absolute;
     bottom: 115px;
     opacity: 0;
@@ -1042,6 +1043,7 @@ a#list-profile-list {
 
 span.star-icon {
     color: var(--gold);
+    display: none;
 }
 
 .bestseller.product-items.owl-carousel {
@@ -1222,6 +1224,7 @@ span.star-icon {
     padding: 7px 15px;
     top: 10px;
     right: 10px;
+    display: none;
 }
 
 .blog-date {
@@ -1246,6 +1249,7 @@ span.star-icon {
     filter: alpha(opacity=0);
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
+    display: none;
 }
 
 .post-hover a {
@@ -1293,6 +1297,7 @@ span.star-icon {
     position: absolute;
     top: 10px;
     right: 25px;
+    display: none;
 }
 
 .blog-icon i {
@@ -1325,6 +1330,7 @@ span.star-icon {
     font-weight: 400;
     background: var(--primary-hover-color);
     margin-top: 20px;
+    display: none;
 }
 
 .blog-btn a {
@@ -2348,6 +2354,7 @@ span.toggled {
 /* Contact_Main  */
 #information-contact .card {
     margin-bottom: 20px;
+    border-radius: 20px;
 }
 
 .contact-left .card-body {

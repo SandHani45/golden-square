@@ -1520,7 +1520,7 @@ progress {
 
     .col-lg-8 {
         flex: 0 0 auto;
-        width: 66.66666667%
+        width: 60.66666667%
     }
 
     .col-lg-9 {
@@ -7487,7 +7487,8 @@ fieldset:disabled .btn {
 }
 
 .h-100 {
-    height: 100% !important
+    height: 100% !important;
+    margin-bottom: 45px;
 }
 
 .h-auto {
